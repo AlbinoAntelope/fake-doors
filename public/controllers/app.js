@@ -11,10 +11,10 @@ function($scope){
   },{
   	title: "Blue Door",
   	description: "A nice blue door",
-  	picture: "red_door.png"
+  	picture: "blue_door.png"
   },{
   	title: "Green Door",
   	description: "A nice green door",
-  	picture: "red_door.png"
+  	picture: "green_door.png"
   }];
 }]);
